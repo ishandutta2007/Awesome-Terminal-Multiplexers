@@ -82,77 +82,77 @@ Every major open-source terminal multiplexer, tiling emulator with native multip
 
 ### 👑 Top-Tier Terminal Multiplexers & Workspaces
 
-1. **[Tabby](https://github.com/Eugeny/tabby)** [![GitHub stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers)  
+1. **[Tabby](https://github.com/Eugeny/tabby)** [![GitHub_Stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers)  
    *An infinitely customizable cross-platform terminal app with built-in pane multiplexing, SSH client, and serial connection manager.*  
    - **Features:** Split panes, tabs, integrated SFTP client, persistent profiles, and complete color scheme ecosystem.  
    - **Tech:** TypeScript / Electron • **License:** MIT
 
-2. **[Ghostty](https://github.com/ghostty-org/ghostty)** [![GitHub stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers)  
+2. **[Ghostty](https://github.com/ghostty-org/ghostty)** [![GitHub_Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers)  
    *Fast, feature-rich, GPU-accelerated terminal emulator designed by Mitchell Hashimoto with native tabs and split pane multiplexing.*  
    - **Features:** Native platform UI, lightning-fast rendering, multi-pane layouts, inspector tools, and modern shell integration.  
    - **Tech:** Zig • **License:** MIT
 
-3. **[tmux](https://github.com/tmux/tmux)** [![GitHub stars](https://img.shields.io/github/stars/tmux/tmux?style=social&color=white)](https://github.com/tmux/tmux/stargazers)  
+3. **[tmux](https://github.com/tmux/tmux)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux/tmux?style=social&color=white)](https://github.com/tmux/tmux/stargazers)  
    *The gold standard terminal multiplexer — enables persistent detached sessions, window management, and scriptable split panes.*  
    - **Features:** Client-server daemon architecture, detach/attach workflows, custom prefix keybindings (`Ctrl-b`), and vast plugin ecosystem.  
    - **Tech:** C • **License:** ISC / BSD
 
-4. **[Zellij](https://github.com/zellij-org/zellij)** [![GitHub stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social&color=white)](https://github.com/zellij-org/zellij/stargazers)  
+4. **[Zellij](https://github.com/zellij-org/zellij)** [![GitHub_Stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social&color=white)](https://github.com/zellij-org/zellij/stargazers)  
    *A modern, batteries-included terminal workspace with discoverable keyboard shortcuts, floating panes, and WebAssembly plugin system.*  
    - **Features:** On-screen discoverable status bar shortcuts, draggable pane dividers, session resurrection, layout presets, and WebAssembly plugin API.  
    - **Tech:** Rust • **License:** MIT
 
-5. **[Kitty](https://github.com/kovidgoyal/kitty)** [![GitHub stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers)  
+5. **[Kitty](https://github.com/kovidgoyal/kitty)** [![GitHub_Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers)  
    *Fast, feature-dense, GPU-based terminal emulator with native window tiling, tab management, and sessions.*  
    - **Features:** GPU rendering via OpenGL, native splits (horizontal, vertical, stack, grid), kitten extensions, and image protocol.  
    - **Tech:** C & Python • **License:** GPL-3.0
 
-6. **[WezTerm](https://github.com/wezterm/wezterm)** [![GitHub stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers)  
+6. **[WezTerm](https://github.com/wezterm/wezterm)** [![GitHub_Stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers)  
    *GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust with Lua configuration.*  
    - **Features:** Built-in terminal multiplexer (no separate tmux required), SSH domains, serial ports, tabs, panes, and ligature rendering.  
    - **Tech:** Rust / Lua • **License:** MIT
 
-7. **[Wave Terminal](https://github.com/wavetermdev/waveterm)** [![GitHub stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers)  
+7. **[Wave Terminal](https://github.com/wavetermdev/waveterm)** [![GitHub_Stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers)  
    *Open-source, AI-native terminal workspace with persistent sessions, graphical widgets, and file previews.*  
    - **Features:** Inline graphical rendering, persistent workspaces across reboots, remote SSH workspace preservation, and web previews.  
    - **Tech:** Go & TypeScript • **License:** Apache-2.0
 
-8. **[iTerm2](https://github.com/gnachman/iTerm2)** [![GitHub stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers)  
+8. **[iTerm2](https://github.com/gnachman/iTerm2)** [![GitHub_Stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers)  
    *The premier macOS terminal emulator with deep native tmux integration and pane splitting.*  
    - **Features:** Native tmux gateway mode (`tmux -CC`), split panes, instant replay, trigger automations, and inline image support.  
    - **Tech:** Objective-C • **License:** GPL-2.0
 
-9. **[Tilix](https://github.com/gnunn1/tilix)** [![GitHub stars](https://img.shields.io/github/stars/gnunn1/tilix?style=social&color=white)](https://github.com/gnunn1/tilix/stargazers)  
+9. **[Tilix](https://github.com/gnunn1/tilix)** [![GitHub_Stars](https://img.shields.io/github/stars/gnunn1/tilix?style=social&color=white)](https://github.com/gnunn1/tilix/stargazers)  
    *Advanced GTK3 tiling terminal emulator for Linux following GNOME Human Interface Guidelines.*  
    - **Features:** Drag-and-drop pane reordering, synchronized input across terminals, custom titles, and sidebar session profiles.  
    - **Tech:** D • **License:** MPL-2.0
 
-10. **[Terminator](https://github.com/gnome-terminator/terminator)** [![GitHub stars](https://img.shields.io/github/stars/gnome-terminator/terminator?style=social&color=white)](https://github.com/gnome-terminator/terminator/stargazers)  
+10. **[Terminator](https://github.com/gnome-terminator/terminator)** [![GitHub_Stars](https://img.shields.io/github/stars/gnome-terminator/terminator?style=social&color=white)](https://github.com/gnome-terminator/terminator/stargazers)  
     *The original grid-based tiling terminal emulator for Linux/X11.*  
     - **Features:** Infinite grid splitting, tab support, drag-and-drop layout configuration, and broadcast typing across groups.  
     - **Tech:** Python / GTK • **License:** GPL-2.0
 
-11. **[Byobu](https://github.com/dustinkirkland/byobu)** [![GitHub stars](https://img.shields.io/github/stars/dustinkirkland/byobu?style=social&color=white)](https://github.com/dustinkirkland/byobu/stargazers)  
+11. **[Byobu](https://github.com/dustinkirkland/byobu)** [![GitHub_Stars](https://img.shields.io/github/stars/dustinkirkland/byobu?style=social&color=white)](https://github.com/dustinkirkland/byobu/stargazers)  
     *Text-based window manager and terminal multiplexer wrapper for tmux and GNU Screen.*  
     - **Features:** Intuitive function-key shortcuts (F2 new, F3/F4 switch), live hardware telemetry monitoring in status bar, and simplified setup.  
     - **Tech:** Shell / Python • **License:** GPL-3.0
 
-12. **[abduco](https://github.com/martanne/abduco)** [![GitHub stars](https://img.shields.io/github/stars/martanne/abduco?style=social&color=white)](https://github.com/martanne/abduco/stargazers)  
+12. **[abduco](https://github.com/martanne/abduco)** [![GitHub_Stars](https://img.shields.io/github/stars/martanne/abduco?style=social&color=white)](https://github.com/martanne/abduco/stargazers)  
     *Clean session management tool providing detach and attach capabilities for any arbitrary command.*  
     - **Features:** Session persistence without terminal emulation overhead, zero dependencies, often paired with `dvtm`.  
     - **Tech:** C • **License:** ISC
 
-13. **[dvtm](https://github.com/martanne/dvtm)** [![GitHub stars](https://img.shields.io/github/stars/martanne/dvtm?style=social&color=white)](https://github.com/martanne/dvtm/stargazers)  
+13. **[dvtm](https://github.com/martanne/dvtm)** [![GitHub_Stars](https://img.shields.io/github/stars/martanne/dvtm?style=social&color=white)](https://github.com/martanne/dvtm/stargazers)  
     *Dynamic virtual terminal manager bringing dwm-style tiling window management to the console.*  
     - **Features:** Tiling layouts for CLI applications, minimal memory footprint, keyboard-driven navigation, and seamless abduco pairing.  
     - **Tech:** C • **License:** ISC
 
-14. **[cy](https://github.com/cfoust/cy)** [![GitHub stars](https://img.shields.io/github/stars/cfoust/cy?style=social&color=white)](https://github.com/cfoust/cy/stargazers)  
+14. **[cy](https://github.com/cfoust/cy)** [![GitHub_Stars](https://img.shields.io/github/stars/cfoust/cy?style=social&color=white)](https://github.com/cfoust/cy/stargazers)  
     *A time-traveling, scriptable terminal multiplexer focused on replaying, recording, and searching terminal history.*  
     - **Features:** Built-in rewindable history recorder, fuzzy search across all panes, and Janet scripting configuration.  
     - **Tech:** Go / Janet • **License:** MIT
 
-15. **[Magmux](https://github.com/MadAppGang/magmux)** [![GitHub stars](https://img.shields.io/github/stars/MadAppGang/magmux?style=social&color=white)](https://github.com/MadAppGang/magmux/stargazers)  
+15. **[Magmux](https://github.com/MadAppGang/magmux)** [![GitHub_Stars](https://img.shields.io/github/stars/MadAppGang/magmux?style=social&color=white)](https://github.com/MadAppGang/magmux/stargazers)  
     *Headless terminal multiplexer designed specifically for AI agents, CI pipelines, and automated harnesses.*  
     - **Features:** Socket-driven headless control without a TTY, 1000-line scrollback buffer, VT-100 emulation, and split panes.  
     - **Tech:** Go • **License:** MIT
@@ -163,25 +163,25 @@ Every major open-source terminal multiplexer, tiling emulator with native multip
 
 These companion utilities supercharge tmux and terminal multiplexers with automated layout restores, session managers, and multi-pane broadcast dispatchers:
 
-1. **[Oh My Tmux!](https://github.com/gpakosz/.tmux)** [![GitHub stars](https://img.shields.io/github/stars/gpakosz/.tmux?style=social&color=white)](https://github.com/gpakosz/.tmux/stargazers)  
+1. **[Oh My Tmux!](https://github.com/gpakosz/.tmux)** [![GitHub_Stars](https://img.shields.io/github/stars/gpakosz/.tmux?style=social&color=white)](https://github.com/gpakosz/.tmux/stargazers)  
    *Self-contained, beautiful, and powerline-styled `.tmux.conf` configuration with battery, CPU, and network indicators.*
 
-2. **[Tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm)** [![GitHub stars](https://img.shields.io/github/stars/tmux-plugins/tpm?style=social&color=white)](https://github.com/tmux-plugins/tpm/stargazers)  
+2. **[Tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux-plugins/tpm?style=social&color=white)](https://github.com/tmux-plugins/tpm/stargazers)  
    *The official package manager for tmux plugins — effortlessly install, update, and manage tmux extensions.*
 
-3. **[Tmuxinator](https://github.com/tmuxinator/tmuxinator)** [![GitHub stars](https://img.shields.io/github/stars/tmuxinator/tmuxinator?style=social&color=white)](https://github.com/tmuxinator/tmuxinator/stargazers)  
+3. **[Tmuxinator](https://github.com/tmuxinator/tmuxinator)** [![GitHub_Stars](https://img.shields.io/github/stars/tmuxinator/tmuxinator?style=social&color=white)](https://github.com/tmuxinator/tmuxinator/stargazers)  
    *Manage complex tmux sessions using declarative YAML project definitions to boot windows, panes, and services at once.*
 
-4. **[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** [![GitHub stars](https://img.shields.io/github/stars/tmux-plugins/tmux-resurrect?style=social&color=white)](https://github.com/tmux-plugins/tmux-resurrect/stargazers)  
+4. **[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux-plugins/tmux-resurrect?style=social&color=white)](https://github.com/tmux-plugins/tmux-resurrect/stargazers)  
    *Restore tmux environments across system reboots — saves pane layouts, shell history, running programs (vim, htop), and active directories.*
 
-5. **[tmuxp](https://github.com/tmux-python/tmuxp)** [![GitHub stars](https://img.shields.io/github/stars/tmux-python/tmuxp?style=social&color=white)](https://github.com/tmux-python/tmuxp/stargazers)  
+5. **[tmuxp](https://github.com/tmux-python/tmuxp)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux-python/tmuxp?style=social&color=white)](https://github.com/tmux-python/tmuxp/stargazers)  
    *Python-powered tmux session manager and automation library supporting YAML/JSON session configurations.*
 
-6. **[tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** [![GitHub stars](https://img.shields.io/github/stars/tmux-plugins/tmux-continuum?style=social&color=white)](https://github.com/tmux-plugins/tmux-continuum/stargazers)  
+6. **[tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux-plugins/tmux-continuum?style=social&color=white)](https://github.com/tmux-plugins/tmux-continuum/stargazers)  
    *Continuous automatic saving and restoring of tmux sessions every 15 minutes, with automatic server resurrection on boot.*
 
-7. **[tmux-xpanes](https://github.com/greymd/tmux-xpanes)** [![GitHub stars](https://img.shields.io/github/stars/greymd/tmux-xpanes?style=social&color=white)](https://github.com/greymd/tmux-xpanes/stargazers)  
+7. **[tmux-xpanes](https://github.com/greymd/tmux-xpanes)** [![GitHub_Stars](https://img.shields.io/github/stars/greymd/tmux-xpanes?style=social&color=white)](https://github.com/greymd/tmux-xpanes/stargazers)  
    *Awesome tmux-based multi-pane command-line dispatcher — opens multiple synchronized panes and broadcasts commands simultaneously.*
 
 ---
@@ -218,7 +218,7 @@ We welcome community contributions, tool additions, and documentation enhancemen
 3. 📝 Update `README.md` following the established table / list format:
    - Provide clean documentation, official repository/website links.
    - For SaaS products, verify specific starting prices and exact free tier limitations.
-   - For open-source tools, include the stargazers badge: `[![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`.
+   - For open-source tools, include the stargazers badge: `[![GitHub_Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`.
 4. 📬 Submit a Pull Request with a descriptive summary of your changes.
 
 ---
